@@ -15,9 +15,10 @@ Twitter dApp works on local network. Get the experience of tweets among the user
 
 **Server**
 
--   npm
+-   node
 -   hardhat
 -   hardhat-waffle
+-   ethereum-waffle
 -   chai
 -   hardhat-ethers
 -   openzeppelin
@@ -38,6 +39,7 @@ Twitter dApp works on local network. Get the experience of tweets among the user
 <h2>Installation</h2>
 <hr>
 
+> git clone https://github.com/ujjwalnp/twitter-clone
 
 <h4>Install for Arch Linux</h4>
 
