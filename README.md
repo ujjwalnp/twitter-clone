@@ -1,5 +1,5 @@
 
-# <bold>![logo](./logo.png) Twitter Clone - dApp Twitter </bold>
+# <bold>![logo](./minilogo.png) Twitter Clone - dApp Twitter </bold>
 <br>
 
 Twitter clone is a blockchain based dApp. This is a collaborative work done by <a href="https://github.com/ujjwalnp">Ujjwal Dhakal</a> and <a href="https://github.com/cosmicgz">Gajananda Mani Adhikari</a>.
