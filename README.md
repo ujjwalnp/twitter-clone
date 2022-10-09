@@ -102,3 +102,15 @@ Twitter dApp works on local network. Get the experience of tweets among the user
 ***It prompts to metamask in your browser. You have to confirm your wallet.***
 
 **Enjoy Twitter dApp at _local network_!**
+
+<h2>Contact Developers</h2>
+<hr>
+
+**Ujjwal Dhakal**
+
+-   dhakalujjwal99@gmail.com
+
+
+**Gajananda Mani Adhikari**
+
+-   cosmicgz11@gmail.com
